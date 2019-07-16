@@ -1,0 +1,19 @@
+0.6
+2017.4
+Dec 15 2017
+21:07:18
+E:/vivado files/intern/intern.sim/sim_1/behav/xsim/glbl.v,1513215259,verilog,,,,glbl,,,,,,,,
+E:/vivado files/intern/intern.srcs/sim_1/new/arbm_tb.v,1561983038,verilog,,,,arbm_tb,,,,,,,,
+E:/vivado files/intern/intern.srcs/sim_1/new/brbm_tb.v,1561985059,verilog,,,,brbm_tb,,,,,,,,
+E:/vivado files/intern/intern.srcs/sim_1/new/crbm_tb.v,1561985897,verilog,,,,crbm_tb,,,,,,,,
+E:/vivado files/intern/intern.srcs/sim_1/new/pipo_tb.v,1562046992,verilog,,,,pipo_tb,,,,,,,,
+E:/vivado files/intern/intern.srcs/sim_1/new/rbm_tb.v,1561977510,verilog,,,,rbm_tb,,,,,,,,
+E:/vivado files/intern/intern.srcs/sim_1/new/test1_tb.v,1562051828,verilog,,,,test1_tb,,,,,,,,
+E:/vivado files/intern/intern.srcs/sim_1/new/test_tb.v,1561987351,verilog,,,,test_tb,,,,,,,,
+E:/vivado files/intern/intern.srcs/sources_1/new/arbm.v,1561982661,verilog,,E:/vivado files/intern/intern.srcs/sources_1/new/brbm.v,,arbm,,,,,,,,
+E:/vivado files/intern/intern.srcs/sources_1/new/brbm.v,1561984528,verilog,,E:/vivado files/intern/intern.srcs/sources_1/new/crbm.v,,brbm,,,,,,,,
+E:/vivado files/intern/intern.srcs/sources_1/new/crbm.v,1561987216,verilog,,E:/vivado files/intern/intern.srcs/sources_1/new/pipo.v,,crbm,,,,,,,,
+E:/vivado files/intern/intern.srcs/sources_1/new/pipo.v,1562044628,verilog,,E:/vivado files/intern/intern.srcs/sources_1/new/test1.v,,dff;pipo,,,,,,,,
+E:/vivado files/intern/intern.srcs/sources_1/new/rbm.v,1561980726,verilog,,E:/vivado files/intern/intern.srcs/sim_1/new/rbm_tb.v,,rbm;rbm_0,,,,,,,,
+E:/vivado files/intern/intern.srcs/sources_1/new/test.v,1561987125,verilog,,E:/vivado files/intern/intern.srcs/sim_1/new/test_tb.v,,test,,,,,,,,
+E:/vivado files/intern/intern.srcs/sources_1/new/test1.v,1562051552,verilog,,E:/vivado files/intern/intern.srcs/sim_1/new/test1_tb.v,,test1,,,,,,,,
